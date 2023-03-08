@@ -35,7 +35,6 @@ Agência XYZ - Tínhamos como objetivo, criar uma Landing Page para criar uma pr
 ### Construído com
 - Marcação HTML5 semântica
 - Estilização com CSS
-- Mobile-first
 
 
 ### O que eu aprendi
